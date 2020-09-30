@@ -1,7 +1,7 @@
 # GreenClothaWay
 
 ## prerequisites
-
+Basic Knowledge of python
 `python >= 3.6`
 
 `pip3 lts`
